@@ -1,0 +1,15 @@
+.main{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+    font-weight: bold;
+}
+.content{
+    text-align: center;
+    margin: 10px;
+}
+.myFocus{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+       
+}
